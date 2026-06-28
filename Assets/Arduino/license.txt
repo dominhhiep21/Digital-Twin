@@ -1,0 +1,11 @@
+Model Information:
+* title:	Aula 24 - Sensor de Temp. e Umid. - Kit 2021
+* source:	https://sketchfab.com/3d-models/aula-24-sensor-de-temp-e-umid-kit-2021-ca30ddc368374894b0f81df8248f46c9
+* author:	Robótica Paraná (https://sketchfab.com/roboticaparana)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Aula 24 - Sensor de Temp. e Umid. - Kit 2021" (https://sketchfab.com/3d-models/aula-24-sensor-de-temp-e-umid-kit-2021-ca30ddc368374894b0f81df8248f46c9) by Robótica Paraná (https://sketchfab.com/roboticaparana) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

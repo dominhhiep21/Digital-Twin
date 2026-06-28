@@ -1,0 +1,11 @@
+Model Information:
+* title:	Aula 13 - Irrigador Automático
+* source:	https://sketchfab.com/3d-models/aula-13-irrigador-automatico-cb9f7cff33284f4883ad7a625b944bd8
+* author:	Robótica Paraná (https://sketchfab.com/roboticaparana)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Aula 13 - Irrigador Automático" (https://sketchfab.com/3d-models/aula-13-irrigador-automatico-cb9f7cff33284f4883ad7a625b944bd8) by Robótica Paraná (https://sketchfab.com/roboticaparana) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

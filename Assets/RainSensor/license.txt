@@ -1,0 +1,11 @@
+Model Information:
+* title:	Sensor de Chuva
+* source:	https://sketchfab.com/3d-models/sensor-de-chuva-11cb6da6402840648a8b4baa0ab09b4e
+* author:	Robótica Paraná (https://sketchfab.com/roboticaparana)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Sensor de Chuva" (https://sketchfab.com/3d-models/sensor-de-chuva-11cb6da6402840648a8b4baa0ab09b4e) by Robótica Paraná (https://sketchfab.com/roboticaparana) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

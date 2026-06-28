@@ -1,0 +1,11 @@
+Model Information:
+* title:	16×2  LCD Display
+* source:	https://sketchfab.com/3d-models/162-lcd-display-f4a375b84c1244da8eda8a064276157c
+* author:	peddintiudaykiran176 (https://sketchfab.com/peddintiudaykiran176)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "16×2  LCD Display" (https://sketchfab.com/3d-models/162-lcd-display-f4a375b84c1244da8eda8a064276157c) by peddintiudaykiran176 (https://sketchfab.com/peddintiudaykiran176) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
